@@ -177,7 +177,6 @@ class Program
             new FileSystemStorage("exchangeRates.json", TimeSpan.FromHours(4)),
             webServiceStorage 
         });
-
         var exchangeRates = await chainResource.GetValueAsync();
         foreach (var rate in exchangeRates.Rates)
         {
