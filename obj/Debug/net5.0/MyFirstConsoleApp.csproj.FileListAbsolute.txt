@@ -1,0 +1,15 @@
+C:\Users\Yarden\MyFirstConsoleApp\bin\Debug\net5.0\MyFirstConsoleApp.exe
+C:\Users\Yarden\MyFirstConsoleApp\bin\Debug\net5.0\MyFirstConsoleApp.deps.json
+C:\Users\Yarden\MyFirstConsoleApp\bin\Debug\net5.0\MyFirstConsoleApp.runtimeconfig.json
+C:\Users\Yarden\MyFirstConsoleApp\bin\Debug\net5.0\MyFirstConsoleApp.runtimeconfig.dev.json
+C:\Users\Yarden\MyFirstConsoleApp\bin\Debug\net5.0\MyFirstConsoleApp.dll
+C:\Users\Yarden\MyFirstConsoleApp\bin\Debug\net5.0\MyFirstConsoleApp.pdb
+C:\Users\Yarden\MyFirstConsoleApp\obj\Debug\net5.0\MyFirstConsoleApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Yarden\MyFirstConsoleApp\obj\Debug\net5.0\MyFirstConsoleApp.AssemblyInfoInputs.cache
+C:\Users\Yarden\MyFirstConsoleApp\obj\Debug\net5.0\MyFirstConsoleApp.AssemblyInfo.cs
+C:\Users\Yarden\MyFirstConsoleApp\obj\Debug\net5.0\MyFirstConsoleApp.csproj.CoreCompileInputs.cache
+C:\Users\Yarden\MyFirstConsoleApp\obj\Debug\net5.0\MyFirstConsoleApp.dll
+C:\Users\Yarden\MyFirstConsoleApp\obj\Debug\net5.0\refint\MyFirstConsoleApp.dll
+C:\Users\Yarden\MyFirstConsoleApp\obj\Debug\net5.0\MyFirstConsoleApp.pdb
+C:\Users\Yarden\MyFirstConsoleApp\obj\Debug\net5.0\MyFirstConsoleApp.genruntimeconfig.cache
+C:\Users\Yarden\MyFirstConsoleApp\obj\Debug\net5.0\ref\MyFirstConsoleApp.dll
